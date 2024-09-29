@@ -1,1 +1,1 @@
-# HTML-and-CSS
+This course introduces the basics of HTML and CSS, covering core topics such as the HTML structure and CSS styling. It includes hands-on exercises on the CSS Box Model, typography, and layout techniques using Flexbox. Advanced concepts like Responsive Web Design and working with forms are also explored through practical exercises. The course culminates in a two-part workshop where students build a static website from scratch, applying the concepts learned throughout the course.
